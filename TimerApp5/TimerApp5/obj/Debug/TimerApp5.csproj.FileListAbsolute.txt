@@ -1,0 +1,9 @@
+f:\mywork\visual studio 2013\Projects\TimerApp5\TimerApp5\bin\Debug\TimerApp5.exe.config
+f:\mywork\visual studio 2013\Projects\TimerApp5\TimerApp5\bin\Debug\TimerApp5.exe
+f:\mywork\visual studio 2013\Projects\TimerApp5\TimerApp5\bin\Debug\TimerApp5.pdb
+f:\mywork\visual studio 2013\Projects\TimerApp5\TimerApp5\obj\Debug\TimerApp5.csprojResolveAssemblyReference.cache
+f:\mywork\visual studio 2013\Projects\TimerApp5\TimerApp5\obj\Debug\TimerApp5.Form1.resources
+f:\mywork\visual studio 2013\Projects\TimerApp5\TimerApp5\obj\Debug\TimerApp5.Properties.Resources.resources
+f:\mywork\visual studio 2013\Projects\TimerApp5\TimerApp5\obj\Debug\TimerApp5.csproj.GenerateResource.Cache
+f:\mywork\visual studio 2013\Projects\TimerApp5\TimerApp5\obj\Debug\TimerApp5.exe
+f:\mywork\visual studio 2013\Projects\TimerApp5\TimerApp5\obj\Debug\TimerApp5.pdb

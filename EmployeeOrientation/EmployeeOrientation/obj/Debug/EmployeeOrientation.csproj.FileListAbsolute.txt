@@ -1,0 +1,3 @@
+f:\mywork\visual studio 2013\Projects\EmployeeOrientation\EmployeeOrientation\bin\Debug\EmployeeOrientation.pdb
+f:\mywork\visual studio 2013\Projects\EmployeeOrientation\EmployeeOrientation\obj\Debug\EmployeeOrientation.dll
+f:\mywork\visual studio 2013\Projects\EmployeeOrientation\EmployeeOrientation\obj\Debug\EmployeeOrientation.pdb

@@ -1,0 +1,6 @@
+f:\mywork\visual studio 2013\Projects\CSOM_CheckIfSharePointListExists\CSOM_CheckIfSharePointListExists\bin\Debug\CSOM_CheckIfSharePointListExists.exe.config
+f:\mywork\visual studio 2013\Projects\CSOM_CheckIfSharePointListExists\CSOM_CheckIfSharePointListExists\bin\Debug\CSOM_CheckIfSharePointListExists.exe
+f:\mywork\visual studio 2013\Projects\CSOM_CheckIfSharePointListExists\CSOM_CheckIfSharePointListExists\bin\Debug\CSOM_CheckIfSharePointListExists.pdb
+f:\mywork\visual studio 2013\Projects\CSOM_CheckIfSharePointListExists\CSOM_CheckIfSharePointListExists\obj\Debug\CSOM_CheckIfSharePointListExists.csprojResolveAssemblyReference.cache
+f:\mywork\visual studio 2013\Projects\CSOM_CheckIfSharePointListExists\CSOM_CheckIfSharePointListExists\obj\Debug\CSOM_CheckIfSharePointListExists.exe
+f:\mywork\visual studio 2013\Projects\CSOM_CheckIfSharePointListExists\CSOM_CheckIfSharePointListExists\obj\Debug\CSOM_CheckIfSharePointListExists.pdb

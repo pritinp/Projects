@@ -1,0 +1,6 @@
+f:\mywork\visual studio 2013\Projects\Variables\Variables\bin\Debug\Variables.exe.config
+f:\mywork\visual studio 2013\Projects\Variables\Variables\bin\Debug\Variables.exe
+f:\mywork\visual studio 2013\Projects\Variables\Variables\bin\Debug\Variables.pdb
+f:\mywork\visual studio 2013\Projects\Variables\Variables\obj\Debug\Variables.csprojResolveAssemblyReference.cache
+f:\mywork\visual studio 2013\Projects\Variables\Variables\obj\Debug\Variables.exe
+f:\mywork\visual studio 2013\Projects\Variables\Variables\obj\Debug\Variables.pdb

@@ -1,0 +1,6 @@
+f:\mywork\visual studio 2013\Projects\SharePointCSOMExample\SharePointCSOMExample\bin\Debug\SharePointCSOMExample.exe.config
+f:\mywork\visual studio 2013\Projects\SharePointCSOMExample\SharePointCSOMExample\bin\Debug\SharePointCSOMExample.exe
+f:\mywork\visual studio 2013\Projects\SharePointCSOMExample\SharePointCSOMExample\bin\Debug\SharePointCSOMExample.pdb
+f:\mywork\visual studio 2013\Projects\SharePointCSOMExample\SharePointCSOMExample\obj\Debug\SharePointCSOMExample.csprojResolveAssemblyReference.cache
+f:\mywork\visual studio 2013\Projects\SharePointCSOMExample\SharePointCSOMExample\obj\Debug\SharePointCSOMExample.exe
+f:\mywork\visual studio 2013\Projects\SharePointCSOMExample\SharePointCSOMExample\obj\Debug\SharePointCSOMExample.pdb

@@ -1,0 +1,6 @@
+f:\mywork\visual studio 2013\Projects\TimerApp\TimerApp\bin\Debug\TimerApp.exe.config
+f:\mywork\visual studio 2013\Projects\TimerApp\TimerApp\bin\Debug\TimerApp.exe
+f:\mywork\visual studio 2013\Projects\TimerApp\TimerApp\bin\Debug\TimerApp.pdb
+f:\mywork\visual studio 2013\Projects\TimerApp\TimerApp\obj\Debug\TimerApp.csprojResolveAssemblyReference.cache
+f:\mywork\visual studio 2013\Projects\TimerApp\TimerApp\obj\Debug\TimerApp.exe
+f:\mywork\visual studio 2013\Projects\TimerApp\TimerApp\obj\Debug\TimerApp.pdb
